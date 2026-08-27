@@ -1,7 +1,5 @@
 """
-Fusion Gene ML Prioritization
-Author: Hiba Hashmi
-
+Fusion Gene ML Prioritizatio
 This script applies a machine learning model to prioritize
 high-confidence fusion gene candidates detected from RNA-seq
 analysis using Arriba.
